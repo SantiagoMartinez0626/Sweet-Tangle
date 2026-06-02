@@ -2,6 +2,12 @@
 
 Juego tipo **match-3** en Unity 6 (2D URP). Intercambia dulces adyacentes, forma líneas de 3 o más y suma puntos hasta alcanzar la meta.
 
+# Evidencia
+
+<p align="center">
+  <img src="Docs/screenshots/run.png" alt="Sweet Tangle" width="420" />
+</p>
+
 <p align="center">
   <img src="Docs/screenshots/logo.png" alt="Logo Sweet Tangle" width="420" />
 </p>
